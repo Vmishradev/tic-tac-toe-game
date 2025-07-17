@@ -55,7 +55,7 @@ TIC-TAC-TOE-GAME/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Vmishradev/tic-tac-toe-game)
    cd TIC-TAC-TOE-GAME
    ```
 
@@ -136,10 +136,6 @@ The game checks for wins in:
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
